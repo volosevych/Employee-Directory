@@ -1,0 +1,16 @@
+.form-inline{
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    border: 1px solid #463f3a;
+    background-color: #463f3a;
+    color: #fff;
+}
+
+.btn:hover {
+    color: black;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
